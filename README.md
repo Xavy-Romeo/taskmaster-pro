@@ -1,7 +1,7 @@
 # TaskMaster Pro
 
 ## Description:
-My professional portfolio page!
+Draggable Task Manager App.
 
 ## Table of Contents: 
 1. [Screenshots](#Screenshots)
